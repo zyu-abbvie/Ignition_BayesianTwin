@@ -31,7 +31,7 @@ class OptimizationHost:
             broker="10.94.132.35",
             port=1883,
             username="superlabuser10",
-            password="123456",
+            password="XXXXXX",
             topics={
                 "trigger": TRIGGER_TOPIC,
                 "setup": SETUP_TOPIC,
